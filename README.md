@@ -80,6 +80,16 @@ A pie chart breaking down total revenue across three product categories:
 
 ---
 
+## 🎬 Dashboard Demo
+
+A walkthrough video of the interactive dashboard is included in this repository.
+
+▶️ **[Watch Demo — Sales_Dashboard_Demo.mp4](./Sales_Dashboard_Demo.mp4)**
+
+> The demo showcases the interactive slicers, chart filters, and KPI cards in action.
+
+---
+
 ## 🚀 Outcome
 
 This project demonstrates how raw business data can be transformed into actionable intelligence using **Power BI** — without any coding. The dashboard is designed to be shown directly to:
@@ -102,6 +112,7 @@ Key skills demonstrated through this task:
 |---|---|
 | `Sales_Dashboard.pbix` | Power BI dashboard file |
 | `Dashboard.png` | Dashboard preview screenshot |
+| `Sales_Dashboard_Demo.mp4` | Full walkthrough video of the dashboard |
 
 ---
 
